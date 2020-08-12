@@ -21,6 +21,20 @@ a:hover {
     margin-top: 10px;
 }
 
+.btn-link {
+    text-decoration: none;
+    color: #999999;
+}
+
+.btn-link:hover {
+    text-decoration: none;
+    color: #45a29e;
+}
+
+.form-check-label {
+    color: #999999;
+}
+
 .padding-custom {
     padding: 20px 0px 20px 20px;
 }
